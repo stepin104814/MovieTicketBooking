@@ -1,1 +1,5 @@
 # MovieTicketBooking
+
+Description
+
+Ticket booking system is based on the concept of booking movie tickets.This system provides user to select a movie, select the seat, to cancel the movie and finally he can able to view all his records. Initially, the user has to sign in by entering his name and password. After the successes full sign in, the user will be provided by an Id. By using that Id and password user can login. The user has to make a choice whether to login, sign in,  select a movie, reserve seat, cancelling the movie or to view the reserved tickets. If he select the number 1, the user is allowed to login, by selecting the number 2, he is allowed to sign in, by selecting the number 3, it shows the list of movies available, by selecting the number 4, the user is presented to a seating layout so that he can select seats of his choice, by selecting the number 5, the user can cancel the movie and finally by selecting the number 6, the user can able to view all the records. In order to book the tickets, the user has to sign in first.
